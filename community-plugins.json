@@ -13607,7 +13607,7 @@
         "description": "A blazingly fast fuzzy finder with file preview.",
         "repo": "mProjectsCode/obsidian-lemons-search-plugin"
 	},
-	{
+    {
         "id": "exmemo-tools",
         "name": "ExMemo Tools",
         "author": "Yan.Xie",
