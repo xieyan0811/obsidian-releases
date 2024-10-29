@@ -13611,7 +13611,7 @@
         "id": "exmemo-tools",
         "name": "ExMemo Tools",
         "author": "Yan.Xie",
-        "description": "Use large models for smart document management and optimization, including relocating files, enhancing text, and generating metadata.",
+        "description": "Use LLMs for smart document management and optimization, including relocating files, enhancing text, and generating metadata.",
         "repo": "exmemo-ai/obsidian-exmemo-tools"
     }
 ]
