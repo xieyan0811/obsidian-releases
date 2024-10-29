@@ -13607,11 +13607,11 @@
         "description": "A blazingly fast fuzzy finder with file preview.",
         "repo": "mProjectsCode/obsidian-lemons-search-plugin"
 	},
-    {
-        "id": "exmemo-client",
-        "name": "ExMemo Client",
+	{
+        "id": "exmemo-tools",
+        "name": "ExMemo Tools",
         "author": "Yan.Xie",
-        "description": "A client for the ExMemo service, used to search, sync, and organize data from the server.",
-        "repo": "exmemo-ai/obsidian-exmemo-client"
+        "description": "Use large models for smart document management and optimization, including relocating files, enhancing text, and generating metadata.",
+        "repo": "exmemo-ai/obsidian-exmemo-tools"
     }
 ]
